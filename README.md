@@ -1,6 +1,4 @@
-# SDS
+# Social Distance Simulator
 
 **COMP1011 Project**
-
-Social Distance Simulator
 
